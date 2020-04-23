@@ -12,4 +12,4 @@ new_collect_val = []
   else
     true
   end
-end 
+end
